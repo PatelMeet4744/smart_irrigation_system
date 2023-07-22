@@ -1,0 +1,10 @@
+const String SplashScreenRoute = '/';
+const String SplashScreen2Route = '/SplashScreen2';
+const String SignInScreenRoute = '/SignIn';
+const String SignUpScreenRoute = '/SignUp';
+const String DashboardScreenRoute = '/Dashboard';
+const String DemoScreenRoute = '/Demo';
+const String HomeScreenRotue = '/Home';
+const String SettingScreenRoute = '/Setting';
+const String MotorScreenRoute = '/Motor';
+const String AutoScreenRoute = '/Auto';

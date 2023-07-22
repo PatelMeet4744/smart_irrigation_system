@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419347060028",
+    "firebase_url": "https://weatherhome-ee0f4-default-rtdb.firebaseio.com",
+    "project_id": "weatherhome-ee0f4",
+    "storage_bucket": "weatherhome-ee0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419347060028:android:f507db902f9fb1d8ae7a39",
+        "android_client_info": {
+          "package_name": "com.example.smart_irrigation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419347060028-0fn319s58rr00nv6g8lod37r97u7llpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCEs_V45XuD7h78B7g6LzgvTZpf0JAjmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419347060028-0fn319s58rr00nv6g8lod37r97u7llpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
